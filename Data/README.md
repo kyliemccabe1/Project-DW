@@ -1,5 +1,5 @@
 | FIELD | Type |Description |
-| ------ | ------ |
+| ------ | ------ | ------
 | Inspection ID  | Float| Number that designates the visit in which the health inspection occured  |
 | AKA Name  | Object| Alternate name for the establishment (if any) |
 | License #  | Object| Business license number associated with the facility  |
