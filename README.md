@@ -1,9 +1,13 @@
+Here is our Data Wrangling Project
+
+We primarily used data from the City of Chicago Health and Human Services website, Food Inspections | City of Chicago | Data Portal and scraped from a website Best Restaurants in Chicago, from the Infatuation.com. 
+
+Article: 
+Health Inspection: https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data
+
+
 # Project-DW
 | Plugin | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Article |[a link]( https://www.theinfatuation.com/chicago/guides/best-restaurants-chicago.md) 
+| Health Inspection Website Download |[a link]( (https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data.md)))
