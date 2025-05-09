@@ -1,11 +1,8 @@
 | FIELD | Type |Description |
 | ------ | ------ | ------
-| Address_x | Object | Full street address of the restaurant. |
-
+| Address_x | Object | Full street address of the restaurant. 
 | Price | Object | General pricing tier, represented by dollar signs ($–$$$$). |
-
 | Cuisine | Object | Type of cuisine served at the restaurant. |
-
 | Neighborhood | Object | Chicago neighborhood where the restaurant is located. |
 
 | Inspection ID | Float | Unique ID assigned to a specific health inspection. |
