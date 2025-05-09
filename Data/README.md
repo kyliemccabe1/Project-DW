@@ -1,3 +1,8 @@
+In this folder you will find the CSV files
+
+
+Here is the data dictionary:
+
 | FIELD | Type |Description |
 | ------ | ------ | ------
 | Address_x | Object | Full street address of the restaurant. 
