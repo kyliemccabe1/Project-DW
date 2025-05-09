@@ -7,8 +7,8 @@ We primarily used data from the City of Chicago Health and Human Services websit
 # Project-DW
 | Plugin | README |
 | ------ | ------ |
-| Article |[a link]( https://www.theinfatuation.com/chicago/guides/best-restaurants-chicago.md) 
-| Health Inspection Website Download |[a link](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data.md)
+| Article |[a link]( https://www.theinfatuation.com/chicago/guides/best-restaurants-chicago) 
+| Health Inspection Website Download |[a link](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
 
 
 In the data folder you will find a data dictionary and csv files to our data
