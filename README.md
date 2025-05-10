@@ -1,4 +1,4 @@
-Here is our Data Wrangling Project
+In this Data Wrangling Project, we wanted to evaluate the top rated restaurants in the Chicago area and match them with their health inspection data.
 
 We primarily used data from the City of Chicago Health and Human Services website, Food Inspections | City of Chicago | Data Portal and scraped from a website Best Restaurants in Chicago, from the Infatuation.com. 
 
