@@ -1,4 +1,4 @@
-In this folder you will find the CSV files
+In this folder you will find the CSV files, health inspection data via the City of Chicago, the scraped data, and the merged csv of the two
 
 
 Here is the data dictionary:
