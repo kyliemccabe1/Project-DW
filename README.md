@@ -2,7 +2,7 @@ In this Data Wrangling Project, we wanted to evaluate the top rated restaurants 
 
 We primarily used data from the City of Chicago Health and Human Services website, Food Inspections | City of Chicago | Data Portal and scraped from a website Best Restaurants in Chicago, from the Infatuation.com. 
 
-The Written Report can be accessed above as "Wrangling Final Project"
+The Written Report can be accessed above as a pdf, "Wrangling Final Project"
 
 
 # Project-DW
