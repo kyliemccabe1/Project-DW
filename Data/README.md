@@ -1,4 +1,4 @@
-In this folder you will find the CSV files, health inspection data via the City of Chicago, the scraped data, and the merged csv of the two
+In this folder you will find the CSV files, health inspection data via the City of Chicago, the scraped data, and the merged csv of the two. The health inspection csv had to be split into two seperate files to be uploaded to Github. The original file is too large.
 
 
 Here is the data dictionary:
